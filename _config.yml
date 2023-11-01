@@ -1,6 +1,6 @@
-url: "https://meerkats.uk.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+url: "https://craig1410.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+title: "Craig Chamberlain's Personal Blog" # the name of your site, e.g. ACME Corp.
 plugins:
   - jekyll-postcss
 
